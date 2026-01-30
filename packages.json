@@ -1,6 +1,13 @@
 {
     "packages": {
-        "devices": [],
+        "devices": [
+            {
+                "name": "Arduino Uno R4 Minima",
+                "deviceId": "arduinoUnoR4Minima",
+                "version": "1.0.0",
+                "repository": "https://github.com/openblock-plugin/arduinoUnoR4Minima"
+            }
+        ],
         "extensions": [],
         "libraries": [],
         "toolchains": [
@@ -368,5 +375,6 @@
                 ]
             }
         ]
-    }
+    },
+    "updatedAt": "2026-01-30T12:21:40.790Z"
 }
